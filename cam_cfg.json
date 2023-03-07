@@ -1,0 +1,4 @@
+{"cam_gpio": 4,
+"cam_addr": "/dev/video0",
+"width": 640,
+"height": 480}
